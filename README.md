@@ -12,6 +12,7 @@ CelebAHQ:
 
 ![示例图片](images/3839.jpg)
 ![示例图片](images/3839.gif)
+
 ![示例图片](images/1439.jpg)
 ![示例图片](images/1439.gif)
 
@@ -20,6 +21,7 @@ FFHQ:
 
 ![示例图片](images/05685.jpg)
 ![示例图片](images/05685.gif)
+
 ![示例图片](images/00221.jpg)
 ![示例图片](images/00221.gif)
 
