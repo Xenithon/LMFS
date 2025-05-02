@@ -1,5 +1,7 @@
 # LMFS: Latent Interpretation for Multi-View Face Synthesis across GANs and Diffusion via Conditional Reconstruction
 
+This is an anonymous repository for double-blind.
+
 TOOD List:
 - [ ] test code
 - [ ] train code
